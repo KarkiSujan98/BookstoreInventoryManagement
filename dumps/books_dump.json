@@ -1,0 +1,44 @@
+[
+    {
+        "author_id": 2,
+        "book_id": 2,
+        "price": 13.99,
+        "title": "Dreams"
+    },
+    {
+        "author_id": 3,
+        "book_id": 3,
+        "price": 5.99,
+        "title": "life"
+    },
+    {
+        "author_id": 5,
+        "book_id": 5,
+        "price": 9.99,
+        "title": "money"
+    },
+    {
+        "author_id": 6,
+        "book_id": 6,
+        "price": 12.99,
+        "title": "my book"
+    },
+    {
+        "author_id": 6,
+        "book_id": 7,
+        "price": 19.99,
+        "title": "Flask Basics"
+    },
+    {
+        "author_id": 1,
+        "book_id": 1,
+        "price": 450.75,
+        "title": "New Book Title"
+    },
+    {
+        "author_id": 5,
+        "book_id": 4,
+        "price": 499.0,
+        "title": "Advanced Python"
+    }
+]

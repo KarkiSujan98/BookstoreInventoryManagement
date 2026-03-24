@@ -1,0 +1,37 @@
+[
+    {
+        "author_id": 2,
+        "email": "Bikash.poudel@gmail.com",
+        "name": "Bikash poudel"
+    },
+    {
+        "author_id": 3,
+        "email": "pujan.dahal@gmail.com",
+        "name": "pujan Dahal"
+    },
+    {
+        "author_id": 4,
+        "email": "surya.dhakal@gmail.com",
+        "name": "Surya Dhakal"
+    },
+    {
+        "author_id": 5,
+        "email": "sujan.karki@gmail.com",
+        "name": "Sujan Karki"
+    },
+    {
+        "author_id": 6,
+        "email": "john.doe@example.com",
+        "name": "John Doe"
+    },
+    {
+        "author_id": 7,
+        "email": "alphamale.doe@example.com",
+        "name": "alpha go"
+    },
+    {
+        "author_id": 1,
+        "email": "binod@dahal.com",
+        "name": "Binod Dahal"
+    }
+]
